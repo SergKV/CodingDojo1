@@ -22,7 +22,7 @@ namespace CodingDojo1
 
                 Console.WriteLine("\nTemperature to convert");
 
-
+                //Initialize number variable
                 double enter_number = 0;
 
                 try
