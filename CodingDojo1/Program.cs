@@ -14,6 +14,7 @@ namespace CodingDojo1
 
             do
             {
+                //Some changes to check
                 //Start of the console application
                 Console.WriteLine("\nSelect the converted measure from menu \nto which u are going to convert:");
                 Menu();
